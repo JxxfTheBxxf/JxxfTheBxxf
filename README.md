@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @JxxfTheBxxf
-- 👀 I’m interested in Coding Discord Bots, Apex Legends, And Coding In General :D
-- 🌱 I’m currently learning node.js and hacking linux terminals
-- 💞️ I’m looking to collaborate on anarchist realm, join the discord https://discord.gg/8YsV4DfWTp
-- 📫 Message me on discord, Jeef#2484
+Hi, I’m @JxxfTheBxxf
+
+Developer for 6 Discord Servers
+- https://discord.gg/ffDCpn25d6
+- https://discord.gg/8h5ydss3j7
+- https://discord.gg/rWFXubUe3z
+- https://discord.gg/TvuGyJCghq
+- https://discord.gg/PEvh6gM4Cc
+- https://discord.gg/FfADj2ZuFU
+
+Currently working on Anarchist Realm. https://discord.gg/4NsY2Xptk5
+
+Need Anything? Dm Me On Discord. Jeef#9789
 
 <!---
 JxxfTheBxxf/JxxfTheBxxf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
